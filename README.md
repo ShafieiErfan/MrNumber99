@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Erfan Shafiei
+- 👋 Hi Dear, I’m Erfan Shafiei
 - 👀 I’m interested in front end
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me : 
-- 📝 Email Address: ImMrNumber99@gmail.com
+- 📝 Email Address: erfan.sh.9090@gmail.com
